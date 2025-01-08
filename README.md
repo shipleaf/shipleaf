@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shipleaf&show_icons=true&theme=radical)
-![Programmers Badge](https://raw.githubusercontent.com/shipleaf/Programmers_Badge_Generator/Programmers_Badge_Generator/main/result/result.svg)
+<!-- ![Programmers Badge](https://raw.githubusercontent.com/shipleaf/Programmers_Badge_Generator/Programmers_Badge_Generator/main/result/result.svg) --!>
 <!--
 **shipleaf/shipleaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
