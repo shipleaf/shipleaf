@@ -9,18 +9,19 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.Js-000000?style=flat-square&logo=nextdotjs&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS EC2&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+
+
+
 
 </div>
 <div align="center">
@@ -28,6 +29,8 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shipleaf&show_icons=true&theme=radical)
+<h3>프로그래머스(알고리즘)</h3>
+<img src="https://github.com/user-attachments/assets/8509bec2-740a-40ce-8895-c728eaef774c">
 <!-- ![Programmers Badge](https://raw.githubusercontent.com/shipleaf/Programmers_Badge_Generator/Programmers_Badge_Generator/main/result/result.svg) --!>
 <!--
 **shipleaf/shipleaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
