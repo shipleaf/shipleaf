@@ -1,9 +1,9 @@
 <div align="center">
     <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> About Me  </h1>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
-        <p>고려대학교 세종캠퍼스 / 경제정책학전공<br>
         언더독레볼루션<br>
-        멋쟁이사자처럼 12기</p>
+        멋쟁이사자처럼 12기<br>
+        SSAFY 14기
     </div>
   <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Stacks  </h1>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
