@@ -30,7 +30,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shipleaf&show_icons=true&theme=radical)
 <h3>프로그래머스(알고리즘)</h3>
-<img src="https://github.com/user-attachments/assets/8509bec2-740a-40ce-8895-c728eaef774c">
+<img width="267" height="101" alt="image" src="https://github.com/user-attachments/assets/65dd59d0-7909-4550-ad07-66908c0e3710" />
+
 <!-- ![Programmers Badge](https://raw.githubusercontent.com/shipleaf/Programmers_Badge_Generator/Programmers_Badge_Generator/main/result/result.svg) --!>
 <!--
 **shipleaf/shipleaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
