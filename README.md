@@ -25,7 +25,7 @@
 
 </div>
 <div align="center">
-    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Stacks  </h2>
+    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Current  </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shipleaf&show_icons=true&theme=radical)
