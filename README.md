@@ -29,6 +29,8 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shipleaf&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
+출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 <h3>프로그래머스(알고리즘)</h3>
 <img width="267" height="101" alt="image" src="https://github.com/user-attachments/assets/65dd59d0-7909-4550-ad07-66908c0e3710" />
 
