@@ -29,6 +29,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shipleaf&show_icons=true&theme=radical)
 <br />
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/shipleaf?theme=dark&posts=3)<br>
+<br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunyeop12)](https://solved.ac/sunyeop12/)
 <h3>프로그래머스(알고리즘)</h3>
 <img width="267" height="101" alt="image" src="https://github.com/user-attachments/assets/65dd59d0-7909-4550-ad07-66908c0e3710" />
